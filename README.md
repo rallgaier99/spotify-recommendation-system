@@ -1,5 +1,7 @@
 # spotify-recommendation-system
 
+This github repo does not contain the million song csv file that we pull the songs from. Please contact me for more information
+
 Description:
 
 Our package is a locally hosted webapp that leverages the strength of the Spotify API and the d3 Javascript plugin to provide a unique music recommendation experience. Users will be able to login to Spotify as a group and view the attributes of their music taste. Once everyone is authenticated, users can receive a recommendation that is tailor-made to the overall tastes of the group, ensuring that everyone can enjoy the playlist together.
